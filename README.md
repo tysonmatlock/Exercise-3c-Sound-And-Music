@@ -12,6 +12,8 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 ## Implementation
 
 Built using Unity 2022.3.45f
+Sound effects created in ChipTone
+Music recorded in Logic Pro X
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
